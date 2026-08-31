@@ -3,8 +3,8 @@
 # Control de Versiones
 
 Universidad: UNAM - Facultad de Ingeniería
-Materia: Control de Versiones
-Profesor: Ing. Jose Roque RG
-Alumno: Pedro [tu apellido]
-Grupo: [tu grupo]
-Semestre: 2026-2
+Materia: Lab Computación gráfica e Interacción Humano-Computadora
+Profesor: Ing. José Roque Roman Guadarrama
+Alumno: Solis Espinosa Pedro Alberto
+Grupo: 2
+Semestre: 2027-1
