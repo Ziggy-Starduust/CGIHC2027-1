@@ -1,0 +1,64 @@
+# Materiales del rover: cada uno apunta a su textura en la carpeta Textures
+
+newmtl SpacialRoverExploreralumWhite
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 16
+d 1.0
+illum 2
+map_Kd rover_white.png
+
+newmtl SpacialRoverExploreralumBlack
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 16
+d 1.0
+illum 2
+map_Kd rover_black.png
+
+newmtl SpacialRoverExploreralumGray
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 16
+d 1.0
+illum 2
+map_Kd rover_gray.png
+
+newmtl SpacialRoverExploreralumGrayDeep
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 16
+d 1.0
+illum 2
+map_Kd rover_graydeep.png
+
+newmtl SpacialRoverExploreralumOrange
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 16
+d 1.0
+illum 2
+map_Kd rover_orange.png
+
+newmtl SpacialRoverExplorerwheels
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 16
+d 1.0
+illum 2
+map_Kd rover_wheels.png
+
+newmtl SpacialRoverExploreralumArm
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 16
+d 1.0
+illum 2
+map_Kd rover_gray.png
