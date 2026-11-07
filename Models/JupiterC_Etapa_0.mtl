@@ -1,0 +1,54 @@
+newmtl negro
+Ka 0 0 0
+Kd 0.0000 0.0000 0.0000
+Ks 0.5 0.5 0.5
+Ns 32
+d 1
+illum 2
+map_Kd JupiterC_negro.png
+
+newmtl blanco
+Ka 0 0 0
+Kd 1.0000 1.0000 1.0000
+Ks 0.5 0.5 0.5
+Ns 32
+d 1
+illum 2
+map_Kd JupiterC_blanco.png
+
+newmtl gris
+Ka 0 0 0
+Kd 0.4000 0.4000 0.4000
+Ks 0.5 0.5 0.5
+Ns 32
+d 1
+illum 2
+map_Kd JupiterC_gris.png
+
+newmtl gris_claro
+Ka 0 0 0
+Kd 0.4980 0.4980 0.4980
+Ks 0.5 0.5 0.5
+Ns 32
+d 1
+illum 2
+map_Kd JupiterC_gris_claro.png
+
+newmtl azul
+Ka 0 0 0
+Kd 0.0470 0.1180 0.3760
+Ks 0.5 0.5 0.5
+Ns 32
+d 1
+illum 2
+map_Kd JupiterC_azul.png
+
+newmtl calcas_a
+Ka 0 0 0
+Kd 1.0000 1.0000 1.0000
+Ks 0.5 0.5 0.5
+Ns 32
+d 1
+illum 2
+map_Kd JupiterC_calcas_a.png
+
